@@ -1,0 +1,35 @@
+
+body {
+    background-color: #87A2FB
+}
+
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #ADDDD0;
+    border-width: 5px;
+    width: 70%;
+}
+
+h1 {
+    color: #2D033B
+}
+
+h3 {
+    color: #810CA8
+}
+
+th {
+    color: #624F82
+}
+/****************************CLASS SELECTORS*****************************************/
+ .animal {
+    background-color: green;
+ }
+ /****************************ID SELECTORS*****************************************/
+#kerem {
+    color: #b175c5;
+}
+
